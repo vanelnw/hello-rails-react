@@ -9,6 +9,10 @@
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.5",
     "react-router-dom": "^6.9.0",
+    "stylelint": "^15.3.0",
+    "stylelint-config-standard": "21.x",
+    "stylelint-csstree-validator": "1.x",
+    "stylelint-scss": "3.x",
     "webpack": "^5.76.3",
     "webpack-cli": "^5.0.1"
   },
