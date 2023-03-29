@@ -119,7 +119,7 @@ rspec
 ## 🔭 Future Features <a name="future-features"></a>
 
 - Improve UI
-
+- Implement Add greeting
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
