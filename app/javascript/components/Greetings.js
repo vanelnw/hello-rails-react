@@ -17,16 +17,12 @@ const Greetings = () => {
     if (error) {
       return <p>{ error }</p>;
     }
-
-    console.log(greeting)
     
     return (
         <div>
             <p>{ greeting }</p>
         </div>
-      
     );
-
 };
 
 export default Greetings;
